@@ -11,7 +11,7 @@ Smith et al.
 
 [2] "Cálculo de unidades de equivalencia de levodopa en enfermedad de Parkinson"
 Amin Cervantes-Arriaga, Mayela Rodríguez-Violante, Alejandra Villar-Velarde, Teresa Corona
-Arch Neurocien (Mex) Vol. 14, No. 2: 116-119; 2009\
+Arch Neurocien (Mex) Vol. 14, No. 2: 116-119; 2009
 
 
 [3] GSK prescribing information for RequipXL
